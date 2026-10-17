@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o **João Lucas** 🦊</h1>
+  <h1>Olá, eu sou o <strong> </strong>João Lucas</strong> 🦊</h1>
   <p>Desenvolvedor de Software focado em construir soluções robustas, escaláveis e eficientes.</p>
 </div>
 
